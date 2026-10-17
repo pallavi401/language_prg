@@ -1,0 +1,6 @@
+streamlit==1.65.0
+langchain-core==1.6.10
+langchain-google-genai==4.4.1
+langgraph==1.2.15
+pydantic==2.14.1
+requests==2.34.2
